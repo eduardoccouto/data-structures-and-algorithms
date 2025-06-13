@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PrefixTreeApplication",
+            "request": "launch",
+            "mainClass": "com.ntidudu.prefix_tree.PrefixTreeApplication",
+            "projectName": "prefix-tree"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStringApplication",
+            "request": "launch",
+            "mainClass": "com.two_pointer.reverse_string.ReverseStringApplication",
+            "projectName": "reverse-string"
+        }
+    ]
+}
